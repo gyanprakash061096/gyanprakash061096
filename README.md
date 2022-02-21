@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gyan Prakash . . .
+- 👋 Hi, I’m Gyan Prakash . . . 
 - 👀 I’m interested in creating and contributing to beautiful Frontend projects !
 - 🌱 I’m currently learning FullStack Development
 - 💞️ I’m looking to collaborate on any project that requires designing an interesting UI.
