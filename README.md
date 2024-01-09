@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Gyan Prakash . . . 
-- 👀 I’m interested in creating and contributing to beautiful Frontend projects !
-- 🌱 I’m currently learning FullStack Development
-- 💞️ I’m looking to collaborate on any project that requires designing an interesting UI.
-- 📫 How to reach me: Text me here-->  www.linkedin.com/in/thegyan
+👋 Hi, I’m Gyan Prakash, a passionate software developer with a focus on backend technologies in Java, Spring Boot, and SQL, coupled with a strong foundation in frontend technologies like HTML, CSS, JavaScript, and ReactJs.
+
+👨‍💻 Experienced in building robust backend systems and proficient in crafting responsive and dynamic user interfaces on the frontend.
+
+🚀 Actively contributing to open source projects, leveraging my expertise in Java 8,11 and 17, Spring Boot, and SQL for backend functionalities, and HTML, CSS, JavaScript, and ReactJs for creating engaging user experiences on the frontend.
+
+🔍 Currently exploring FullStack Development to enhance my skills and bring a holistic approach to software development.
+
+💡 Keen interest in emerging technologies, automation, AI, and machine learning, driving my commitment to stay at the forefront of technological advancements.
+
+🤝 Open to collaboration on projects that involve designing compelling UIs, fostering an environment of shared knowledge and codebase improvement.
+
+🌐 Let's connect and collaborate! Reach me on LinkedIn: www.linkedin.com/in/thegyan
 
 <!---
 gyanprakash061096/gyanprakash061096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
